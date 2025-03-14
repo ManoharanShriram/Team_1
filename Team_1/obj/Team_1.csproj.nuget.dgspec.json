@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manoharan.hari\\GIT_IND\\Team_1\\Team_1\\Team_1.csproj": {}
+    "C:\\Users\\ranjithkumar.p\\Team_1\\Team_1\\Team_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manoharan.hari\\GIT_IND\\Team_1\\Team_1\\Team_1.csproj": {
+    "C:\\Users\\ranjithkumar.p\\Team_1\\Team_1\\Team_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manoharan.hari\\GIT_IND\\Team_1\\Team_1\\Team_1.csproj",
+        "projectUniqueName": "C:\\Users\\ranjithkumar.p\\Team_1\\Team_1\\Team_1.csproj",
         "projectName": "Team_1",
-        "projectPath": "C:\\Users\\manoharan.hari\\GIT_IND\\Team_1\\Team_1\\Team_1.csproj",
-        "packagesPath": "C:\\Users\\manoharan.hari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manoharan.hari\\GIT_IND\\Team_1\\Team_1\\obj\\",
+        "projectPath": "C:\\Users\\ranjithkumar.p\\Team_1\\Team_1\\Team_1.csproj",
+        "packagesPath": "C:\\Users\\ranjithkumar.p\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ranjithkumar.p\\Team_1\\Team_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\manoharan.hari\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ranjithkumar.p\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
