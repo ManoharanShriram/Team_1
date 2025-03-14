@@ -9,7 +9,7 @@ public static  void Mano1()
 
 public static void Mano2()
 {
-    System.Console.WriteLine("This is Mano's second method");
+    System.Console.WriteLine("This is Mano's second method.");
 
 }
 
